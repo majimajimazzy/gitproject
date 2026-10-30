@@ -6,6 +6,7 @@ public class forIf {
 		System.out.println("Hello World!");
 		System.out.println(5*15);
 		System.out.println(5+15);
+		System.out.println(15/5);
 	}
 
 }
