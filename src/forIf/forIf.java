@@ -5,6 +5,7 @@ public class forIf {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello World!");
 		System.out.println(5*15);
+		System.out.println(5+15);
 	}
 
 }
